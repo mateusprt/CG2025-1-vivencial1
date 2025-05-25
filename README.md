@@ -1,5 +1,5 @@
 
-# CG2025-1: Projeto da tividade Vivencial 1
+# CG2025-1: Projeto da atividade Vivencial 1
 
 Nomes: Mateus Nunes e Mathias Hahner.
 
